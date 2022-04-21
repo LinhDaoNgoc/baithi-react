@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "alo1232323",
+      "price": 123213,
+      "desc": "dsadasd",
+      "img": "dsadasd"
+    },
+    {
+        "id": 2,
+        "name": "product2",
+        "price": 12344,
+        "desc":"sản phẩm tốt",
+        "img": "sahfhhhh"
+    }
+  ]
+}
